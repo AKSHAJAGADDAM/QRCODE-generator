@@ -1,4 +1,4 @@
-# QRCODE-generator
+# QRCODE-generator Project.
 Quick Response (QR) codes seem to appear everywhere these days. We can see them on 
 posters, magazine ads, websites, product packaging and so on. Using the QR codes is one of the 
 most intriguing ways of digitally connecting consumers to the internet via mobile phones since 
